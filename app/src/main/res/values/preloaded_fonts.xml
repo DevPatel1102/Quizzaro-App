@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo_black</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_outline</item>
+        <item>@font/iceberg</item>
+        <item>@font/jacques_francois_shadow</item>
+        <item>@font/major_mono_display</item>
+        <item>@font/monoton</item>
+        <item>@font/new_rocker</item>
+        <item>@font/orbitron</item>
+        <item>@font/orbitron_bold</item>
+        <item>@font/plaster</item>
+        <item>@font/poppins</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/quantico_bold</item>
+        <item>@font/sarpanch_bold</item>
+        <item>@font/train_one</item>
+    </array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393326624046",
+    "project_id": "quizzaro-3e876",
+    "storage_bucket": "quizzaro-3e876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393326624046:android:d7b2e0df0c32022cdc0ebf",
+        "android_client_info": {
+          "package_name": "com.example.quizzaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393326624046-4bjjmluetebrs53amuk3bogo3ckr3689.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizzaro",
+            "certificate_hash": "d07613749c6373a1c2dbb453ab445c8ca7ab1993"
+          }
+        },
+        {
+          "client_id": "393326624046-ece8146ab1itqs4cl5t92ce1vkknc2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIde1_9z3EA3wVbwFer5m3sG9XKk5jBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393326624046-ece8146ab1itqs4cl5t92ce1vkknc2gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
